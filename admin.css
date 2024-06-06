@@ -1,0 +1,66 @@
+.icon{
+  float: right;
+  border-radius: 50%;
+  margin: 15px;
+}
+.all{
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+}
+.all p{
+    margin-top: 35px;
+    font-weight: bold;
+}
+.main{
+    background: whitesmoke;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.dash{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.upload{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    background-color: whitesmoke;
+}
+.col{
+    background-color: rgb(255, 255, 255);
+}
+.add{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    background-color: whitesmoke;
+}
+.cont{
+    margin: 20px;
+}
+.cont input{
+    width: 300px;
+    height: 50px;
+    outline: none;
+    border: 1px solid grey;
+}

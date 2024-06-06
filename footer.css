@@ -1,0 +1,41 @@
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px; /* Adjust this for wider content */
+    margin: 0 auto; /* Centers the content horizontally */
+  }
+  
+  .footer a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  .footer a:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+.footer ul{
+    list-style: none;
+    
+}  
+.container ul li{
+    margin: 20px;
+background-color: #f2f2f2;
+    
+}  
+.container ul li a{
+    text-decoration: none;
+    color: orange;
+    width: 300px;
+    padding: 10px;  
+    }  
+    .poppins-light {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }

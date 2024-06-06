@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+}
+.main-div{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    top: 0;
+    height: 100vh;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+
+}
+.cont{
+    margin: 20px;
+}
+.cont input{
+    width: 300px;
+    height: 50px;
+    outline: none;
+    border: 1px solid grey;
+}
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  form{
+    border: 1px solid grey;
+    padding: 20px;
+  }
+  ::placeholder{
+    margin: 10px;
+  }
